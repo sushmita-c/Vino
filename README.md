@@ -1,3 +1,3 @@
 # Vino
 
-Minimalistic design for a wine pairing website: http://unwired.pw/vinotest/
+Minimalistic design for a wine pairing website: https://unwired.pw/vinotest/
