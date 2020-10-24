@@ -2,7 +2,8 @@
 
 Minimalistic design for a wine pairing website: https://unwired.pw/vinotest/
 
-Documentation available at : https://v.ht/doc-9832424
+Documentation available at : v1.1 https://github.com/sushmita-c/vino/blob/master/PA6_Vino_Report_SChaudhary.pdf (PA6_Vino_Report_SChaudhary.pdf)
+                             v1.0 https://v.ht/doc-9832424
 
 The original VINO concept offered a comprehensive, one-stop-shop solution to the wine purchasing process; beginning with educating consumers in making informed decisions that would quickly redefine wine heuristics; previous works in the online marketplace are driven by taxing wine recommendation services (i.e. via extensive questionnaires). They fail to account for the total picture - many of these sights suffered greatly from the Vegas effect, overwhelming users with aesthetics and little utility. Vino quickly became an opportunity to redefine the aesthetics of the process!
 
